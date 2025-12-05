@@ -3,7 +3,7 @@
 Class: 12T2 · Semester 1 Project
 
 ## 🌿 Topic  
-A simple W3.CSS-based website introducing “healing” spots in Ho Chi Minh City for Gen Z — including cafés, creative spaces, and relaxing destinations.
+A simple W3.CSS-based website introducing “healing” spots in Ho Chi Minh City for Gen Z, including cafés, creative spaces, and relaxing destinations.
 
 ## ▶️ How to Run  
 1. Clone the repository:  
