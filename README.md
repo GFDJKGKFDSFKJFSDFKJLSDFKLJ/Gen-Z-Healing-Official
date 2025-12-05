@@ -34,11 +34,11 @@ Bảo Anh:
 
 Đăng Thư:
 
-CSS & JavaScript chính
+- CSS & JavaScript chính
 
-Hỗ trợ HTML
+- Hỗ trợ HTML
 
-Viết nội dung + báo cáo cuối kỳ
+- Viết nội dung + báo cáo cuối kỳ
 
 📅 Ngày nộp
 
@@ -46,4 +46,4 @@ Viết nội dung + báo cáo cuối kỳ
 
 📌 Tóm tắt (≤150 từ)
 
-Website giới thiệu công ty du lịch “FSG”, cung cấp chương trình với danh sách các địa điểm “healing” tại TP.HCM dành cho Gen Z muốn thư giãn và nạp lại năng lượng. Trang web nổi bật với các quán cà phê, không gian sáng tạo và địa điểm yên bình mang đến sự thoải mái, cảm hứng và vibes thẩm mỹ. Dựa trên “Band Template” của W3.CSS, website có thiết kế responsive, slideshow tùy chỉnh, navbar cho thiết bị di động và modal đặt chỗ. Tất cả nội dung, hình ảnh và bố cục đều được thay đổi để phù hợp chủ đề. Website được triển khai qua GitHub Pages để dễ dàng truy cập trên cả điện thoại và máy tính.
+Website của công ty du lịch FSG giới thiệu các tour khám phá những địa điểm “healing” nổi bật dành cho Gen Z tại TP.HCM—nơi bạn có thể thư giãn, tái tạo năng lượng và tìm lại cảm hứng. Trang web tổng hợp các quán cà phê chill, không gian sáng tạo và những góc yên bình mang lại sự thoải mái cùng vibes thẩm mỹ đúng chuẩn Gen Z. Dựa trên mẫu “Band Template” của W3.CSS, giao diện được thiết kế responsive, kèm slideshow hình ảnh, thanh điều hướng tối ưu cho thiết bị di động và modal đặt lịch tour tiện lợi. Toàn bộ nội dung, hình ảnh và bố cục được tùy chỉnh lại để phù hợp với chủ đề “healing tour”. Website được triển khai qua GitHub Pages, cho phép truy cập dễ dàng trên cả máy tính và điện thoại.
