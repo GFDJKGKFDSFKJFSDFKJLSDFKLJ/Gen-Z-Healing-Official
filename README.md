@@ -1,34 +1,49 @@
-# Gen-Z-Healing
-# Gen Z for Healing – W3.CSS Website  
-Class: 12T2 · Semester 1 Project
+Gen Z for Healing – Website W3.CSS
 
-## 🌿 Topic  
-A simple W3.CSS-based website introducing “healing” spots in Ho Chi Minh City for Gen Z, including cafés, creative spaces, and relaxing destinations.
+Lớp: 12T2 · Dự án HK1
 
-## ▶️ How to Run  
-1. Clone the repository:  
-   `git clone https://github.com/GFDJKGKFDSFKJFSDFKJLSDFKLJ/Gen-Z-Healing`
-2. Open `index.html` directly in any browser.  
-3. Or view it online via GitHub Pages:  
-   https://gfdjkgkfdsfkjfsdfkjlsdfklj.github.io/Gen-Z-Healing/#contact
+🌿 Chủ đề
 
-## 👥 Team Members  
-- **Lương Châu Bảo Anh** – 1906013  
-- **Nguyễn Đăng Thư** – 1906214  
+Một website đơn giản sử dụng W3.CSS giới thiệu các địa điểm “healing” ở TP.HCM dành cho Gen Z, bao gồm quán cà phê, không gian sáng tạo và các địa điểm thư giãn.
 
-## 🧩 Task Distribution  
-**Bảo Anh**  
-- Main HTML structure  
-- Supporting CSS + JS  
-- Moodboard, images, layout setup  
+▶️ Cách chạy
 
-**Đăng Thư**  
-- Main CSS & JavaScript  
-- Supporting HTML  
-- Content writing + final report  
+Clone repo:
+git clone https://github.com/GFDJKGKFDSFKJFSDFKJLSDFKLJ/Gen-Z-Healing-Official
 
-## 📅 Submission Date  
-**05/12/2025**
+Mở trực tiếp index.html bằng bất kỳ trình duyệt nào.
 
-## 📌 Summary (≤150 words)  
-This website promotes our tour company named "FSG", providing a program with a list of “healing” locations in Ho Chi Minh City tailored for Gen Z looking to relax and recharge. The website highlights cafés, creative hubs, and peaceful destinations that offer comfort, inspiration, and aesthetic vibes. Built using the W3.CSS “Band Template,” the site includes responsive design, a custom slideshow, mobile navigation, and a booking modal. All content, visuals, and layout elements were replaced to match the project’s theme. The final website is deployed via GitHub Pages for easy online access on both mobile and desktop.
+Hoặc xem online qua GitHub Pages:
+https://gfdjkgkfdsfkjfsdfkjlsdfklj.github.io/Gen-Z-Healing/#contact
+
+👥 Thành viên nhóm
+
+Lương Châu Bảo Anh – 1906013
+
+Nguyễn Đăng Thư – 1906214
+
+🧩 Phân công nhiệm vụ
+
+Bảo Anh:
+
+- Xây dựng cấu trúc HTML chính
+
+- Hỗ trợ CSS + JS
+
+- Moodboard, hình ảnh, bố cục giao diện
+
+Đăng Thư:
+
+CSS & JavaScript chính
+
+Hỗ trợ HTML
+
+Viết nội dung + báo cáo cuối kỳ
+
+📅 Ngày nộp
+
+05/12/2025
+
+📌 Tóm tắt (≤150 từ)
+
+Website giới thiệu công ty du lịch “FSG”, cung cấp chương trình với danh sách các địa điểm “healing” tại TP.HCM dành cho Gen Z muốn thư giãn và nạp lại năng lượng. Trang web nổi bật với các quán cà phê, không gian sáng tạo và địa điểm yên bình mang đến sự thoải mái, cảm hứng và vibes thẩm mỹ. Dựa trên “Band Template” của W3.CSS, website có thiết kế responsive, slideshow tùy chỉnh, navbar cho thiết bị di động và modal đặt chỗ. Tất cả nội dung, hình ảnh và bố cục đều được thay đổi để phù hợp chủ đề. Website được triển khai qua GitHub Pages để dễ dàng truy cập trên cả điện thoại và máy tính.
