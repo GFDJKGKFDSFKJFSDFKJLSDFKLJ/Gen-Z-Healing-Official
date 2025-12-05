@@ -14,8 +14,7 @@ git clone https://github.com/GFDJKGKFDSFKJFSDFKJLSDFKLJ/Gen-Z-Healing-Official
 Mở trực tiếp index.html bằng bất kỳ trình duyệt nào.
 
 Hoặc xem online qua GitHub Pages:
-https://gfdjkgkfdsfkjfsdfkjlsdfklj.github.io/Gen-Z-Healing/#contact
-
+https://gfdjkgkfdsfkjfsdfkjlsdfklj.github.io/Gen-Z-Healing-Official/
 👥 Thành viên nhóm
 
 Lương Châu Bảo Anh – 1906013
